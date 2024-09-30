@@ -7,7 +7,7 @@
 ### 🔧 Technologies & Tools:
 - **Languages**: Java, Python, PHP, JavaScript
 - **Frameworks**: Spring Boot, Hibernate, ReactJS, Nodejs, React Js, Angular
-- **Cloud**: AWS (EC2, S3, Lambda), Azure
+- **Cloud**: AWS (EC2, S3, Lambda)
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 - **Tools**: Git, Docker, Kubernetes, Jenkins, Liquibase, Maven
 - **Other**: EMV, ISO 8583, ANPR, POS Systems
