@@ -32,11 +32,7 @@ I am passionate about leveraging modern technologies and best practices to solve
 - Engineered the overhaul of EMV batch processing systems, reducing transaction errors by 25%.
 - Led the design and development of a multi-state recruitment platform for government agencies, increasing candidate retention by 50%.
 
----
 
-### 📈 My Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=innodwin&show_icons=true&theme=radical)
 
 ---
 
@@ -47,12 +43,6 @@ I am passionate about leveraging modern technologies and best practices to solve
 
 ---
 
-### 💻 Open Source Contributions:
-- [Project 1](https://github.com/YourUsername/Project1): Brief description of the project.
-- [Project 2](https://github.com/YourUsername/Project2): Brief description of the project.
-- [Project 3](https://github.com/YourUsername/Project3): Brief description of the project.
-
----
 
 ### 🌱 Currently Learning:
 - Machine Learning with Python (TensorFlow, Keras)
