@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ConstructMart - A fusion of construction and marketplace**
 
-- 💬 Ask me about **Javascript, Java , Database, MEARN, PHP**
+- 💬 Ask me about **Javascript, Java , Database, MERN, PHP**
 
 - 📫 How to reach me **innocentedwin25@yahoo.com**
 
