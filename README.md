@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Innocent Idoko</h1>
-<h3 align="center">I am a highly skilled and results-driven Senior Software Engineer with over 7 years of experience in building scalable, high-performance applications. My expertise spans across **backend development**, **cloud computing**, and **full-stack solutions** for enterprise-level applications.</h3>
+<h3 align="center">Seasoned Software Engineer with over 8 years of experience in developing client-server applications using Java, Nodejs, PHP, and React JS. Proven expertise in designing scalable systems, building RESTful APIs, and managing cloud infrastructures using AWS and Kubernetes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innodwin&label=Profile%20views&color=0e75b6&style=flat" alt="innodwin" /> </p>
 
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=innodwin&show_icons=true&locale=en&layout=compact" alt="innodwin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innodwin&show_icons=true&locale=en" alt="innodwin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innodwin&" alt="innodwin" /></p>
