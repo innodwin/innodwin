@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Innocent Idoko</h1>
 <h3 align="center">Seasoned Software Engineer with over 8 years of experience in developing client-server applications using Java, Nodejs, PHP, and React JS. Proven expertise in designing scalable systems, building RESTful APIs, and managing cloud infrastructures using AWS and Kubernetes.</h3>
 
-- 🔭 I’m currently working on **ConstructMart - A fusion of construction and marketplace**
+
 
 - 💬 Ask me about **Javascript, Java , Database, MERN, PHP**
 
